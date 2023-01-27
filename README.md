@@ -1,6 +1,8 @@
 # Machine-Learning-Algorithms
 
-# Contents
+## Table of Contents
+
+- [Decision Algorithms](#decision-algorithms)
 
 
 # Decision Algorithms
