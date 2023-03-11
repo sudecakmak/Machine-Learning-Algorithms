@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Decision Algorithms](#decision-algorithms)
-
+- [ID3](#id3)
 
 # Decision Algorithms
 
@@ -12,3 +12,7 @@
 
 ### Decision tree
 ![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
+
+# ID3
+
+
