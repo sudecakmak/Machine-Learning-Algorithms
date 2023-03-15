@@ -3,7 +3,8 @@
 ## Table of Contents
 
 - [Decision Algorithms](#decision-algorithms)
-- [ID3](#id3)
+  - [ID3 Algorithm](#id3-algorithm)
+  - [Twoing Algorithm](#twoing-algorithm)
 
 # Decision Algorithms
 
@@ -13,6 +14,6 @@
 ### Decision tree
 ![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
 
-# ID3
+# ID3 Algorithm
 
-
+# Twoing Algorithm
