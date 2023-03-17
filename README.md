@@ -1,5 +1,9 @@
 # Machine-Learning-Algorithms
 
+## Machine Learning
+
+> **Machine learning** is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
 ## Table of Contents
 
 - [Decision Algorithms](#decision-algorithms)
@@ -8,6 +12,9 @@
 
 # Decision Algorithms
 
+> ***Decision tree*** is a structure that contains nodes and edgesand is built from a dataset (table of columns representing features/attributes and rows corresponds to records). Each node is either used to make a decision (known as decision node) or represent an outcome (known as leaf node).
+
+> ***Dataset*** is a collection of various types of data stored in a digital format.
 
 # ID3 Algorithm
 
