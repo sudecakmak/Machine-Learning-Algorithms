@@ -45,4 +45,3 @@
 ### Dataset
 ![dataset](https://user-images.githubusercontent.com/102357822/225343128-8ed84a93-73db-4622-996b-2b59395d7311.png)
 
-### Decision tree
