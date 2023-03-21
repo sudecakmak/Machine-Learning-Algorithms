@@ -4,8 +4,10 @@
 
 - [Decision Algorithms](#decision-algorithms)
   - [ID3 Algorithm](#id3-algorithm)
+  - [C4.5 Algorithm](#c45-algorithm)
   - [Twoing Algorithm](#twoing-algorithm)
-
+  - [Gini Algorithm](#gini-algorithm)
+  
 # Decision Algorithms
 
 > This algorithms use to generate a decision tree.
@@ -19,6 +21,11 @@
 ### ***Dataset*** 
 > is a collection of various types of data stored in a digital format.
 
+
+
+
+
+
 # ID3 Algorithm
 
 > Stands for Iterative Dichotomiser 3
@@ -28,8 +35,17 @@
 ### Entropy
 ![Screenshot 2023-03-19 170133](https://user-images.githubusercontent.com/102357822/226181211-6461e4b9-6622-476c-a689-f1e27ab92458.png)
 
-### Information Gain
-![Screenshot 2023-03-19 170214](https://user-images.githubusercontent.com/102357822/226181225-4a73cdcd-e302-463b-93b9-e388c80a7b4c.png)
+### Dataset
+![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
+
+### Decision tree
+![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
+
+
+
+
+
+# C4.5 Algorithm
 
 
 ### Dataset
@@ -40,8 +56,29 @@
 
 
 
+
 # Twoing Algorithm
 
-### Dataset
-![dataset](https://user-images.githubusercontent.com/102357822/225343128-8ed84a93-73db-4622-996b-2b59395d7311.png)
 
+
+### Dataset
+![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
+
+### Decision tree
+![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
+
+
+
+
+
+
+
+# Gini Algorithm
+
+
+
+### Dataset
+![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
+
+### Decision tree
+![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
