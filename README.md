@@ -49,10 +49,10 @@
 
 
 ### Dataset
-![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
+![Dataset](https://user-images.githubusercontent.com/102357822/226764021-5877bcef-b24b-4016-909a-bbe71967071d.png)
 
 ### Decision tree
-![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
+![Decision-tree](https://user-images.githubusercontent.com/102357822/226764029-35e801f0-082b-43d1-aa6e-1d9259709b2a.png)
 
 
 
@@ -62,11 +62,8 @@
 
 
 ### Dataset
-![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
 
 ### Decision tree
-![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
-
 
 
 
@@ -78,7 +75,5 @@
 
 
 ### Dataset
-![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
 
 ### Decision tree
-![decision_tree](https://user-images.githubusercontent.com/102357822/224142978-a618688a-f821-46c7-8d85-d8fc1f532264.png)
