@@ -62,9 +62,10 @@
 
 
 ### Dataset
+![dataset](https://user-images.githubusercontent.com/102357822/227040231-9064b0dd-e97a-4eda-9b51-764ddde05afa.png)
 
 ### Decision tree
-
+![decision-tree](https://user-images.githubusercontent.com/102357822/227040241-d40ffe7d-6311-4c35-a25d-58b092f6ee4c.png)
 
 
 
@@ -75,5 +76,7 @@
 
 
 ### Dataset
+![dataset](https://user-images.githubusercontent.com/102357822/227040272-9e1fcb7c-a8e2-429a-8b1e-1d960853b7b9.png)
 
 ### Decision tree
+![decision-tree](https://user-images.githubusercontent.com/102357822/227040294-84d2763d-a821-4619-a5fb-9d99012ae03b.png)
