@@ -35,6 +35,8 @@
 ### Entropy
 ![Screenshot 2023-03-19 170133](https://user-images.githubusercontent.com/102357822/226181211-6461e4b9-6622-476c-a689-f1e27ab92458.png)
 
+![entropy-formula](https://user-images.githubusercontent.com/102357822/227637084-5d095d63-9f4a-45e3-8d27-3a3edbe56cb5.png)
+
 ### Dataset
 ![data_set](https://user-images.githubusercontent.com/102357822/224136660-6bc7be0c-3a03-4e9c-8aa6-ba109f7d9e44.png)
 
@@ -73,6 +75,7 @@
 
 # Gini Algorithm
 
+![gini-index-formula](https://user-images.githubusercontent.com/102357822/227637115-65862e85-e4d5-44d9-a463-0bb0439149c8.png)
 
 
 ### Dataset
