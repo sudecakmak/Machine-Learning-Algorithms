@@ -33,8 +33,6 @@
 > Is a precursor to the C4.5 Algorithm
 
 ### Entropy
-![Screenshot 2023-03-19 170133](https://user-images.githubusercontent.com/102357822/226181211-6461e4b9-6622-476c-a689-f1e27ab92458.png)
-
 ![entropy-formula](https://user-images.githubusercontent.com/102357822/227637084-5d095d63-9f4a-45e3-8d27-3a3edbe56cb5.png)
 
 ### Dataset
@@ -62,9 +60,9 @@
 # Twoing Algorithm
 
 
-
 ### Dataset
-![dataset](https://user-images.githubusercontent.com/102357822/227040231-9064b0dd-e97a-4eda-9b51-764ddde05afa.png)
+![227040231-9064b0dd-e97a-4eda-9b51-764ddde05afa](https://user-images.githubusercontent.com/102357822/227655483-3d15ad45-c5f1-49e3-9bea-2d0083e9ad47.png)
+
 
 ### Decision tree
 ![decision-tree](https://user-images.githubusercontent.com/102357822/227040241-d40ffe7d-6311-4c35-a25d-58b092f6ee4c.png)
@@ -79,7 +77,7 @@
 
 
 ### Dataset
-![dataset](https://user-images.githubusercontent.com/102357822/227040272-9e1fcb7c-a8e2-429a-8b1e-1d960853b7b9.png)
+![227040231-9064b0dd-e97a-4eda-9b51-764ddde05afa](https://user-images.githubusercontent.com/102357822/227655487-3a989726-ea7e-4fb4-9f89-e665fdabf4a9.png)
 
 ### Decision tree
 ![decision-tree](https://user-images.githubusercontent.com/102357822/227040294-84d2763d-a821-4619-a5fb-9d99012ae03b.png)
